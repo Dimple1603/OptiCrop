@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+venv/
+.ipynb_checkpoints/
+
+# Node.js
+node_modules/
+frontend/node_modules/
+
+# VS Code
+.vscode/
+
+# Build
+dist/
+frontend/dist/
+.vite/
+
+# Environment
+.env

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.ipynb_checkpoints/
+
+# Node.js
+node_modules/
+frontend/node_modules/
+
+# Build output
+dist/
+frontend/dist/
+
+# Vite
+.vite/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+
+# OS
+Thumbs.db
+.DS_Store
