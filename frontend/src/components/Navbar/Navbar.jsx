@@ -10,14 +10,14 @@ function Navbar() {
 
       <ul className="nav-links">
         <li><a href="#">Home</a></li>
+        <li><a href="#about">About</a></li>
         <li><a href="#predict">Predict</a></li>
         <li><a href="#analytics">Analytics</a></li>
-        <li><a href="#about">About</a></li>
       </ul>
 
-      <button className="nav-btn">
+      <a href="#predict" className="nav-btn">
         Get Started
-      </button>
+      </a>
 
     </nav>
   );

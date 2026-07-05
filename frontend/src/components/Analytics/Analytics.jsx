@@ -2,7 +2,7 @@ import "./Analytics.css";
 
 function Analytics() {
   return (
-    <section className="analytics">
+    <section id="analytics" className="analytics">
 
       <h2>Project Statistics</h2>
 
